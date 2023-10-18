@@ -83,6 +83,7 @@ header nav.menu-desktop ul li {
 .btn-abrir-menu i{
     color: #ff00bf;
     font-size: 40px;
+    cursor: pointer;
 }
 
 .menu-mobile{
@@ -112,6 +113,7 @@ display: block;
 .menu-mobile .btn-fechar i{
     color: #ff00bf;
     font-size: 30px;
+    cursor: pointer;
 }
 
 .menu-mobile nav ul{
@@ -201,6 +203,7 @@ section.especialidades .flex {
     border: 2px solid #fff;
     margin-top: 45px;
     transition: .2s;
+    cursor: pointer;
 }
 
 .especialidades .especialidades-box:hover {
